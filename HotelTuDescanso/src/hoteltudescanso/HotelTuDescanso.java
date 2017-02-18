@@ -8,11 +8,8 @@ package hoteltudescanso;
 
 import vista.Hotel;
 
+//Prueba
 
-/**
- *
- * @author pc
- */
 public class HotelTuDescanso {
 
     /**
