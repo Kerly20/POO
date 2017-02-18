@@ -8,7 +8,11 @@ package hoteltudescanso;
 
 import vista.Hotel;
 
-
+/*PARA GUARDAR LOS CAMBIOS DEBEN HACER LO SIGUIENTE:
+    -CLICK DERECHO SOBRE EL PROYECTO->GIT->COMMIT
+    -APLASTAN EN COMMIT
+    -OTRA VEZ CLICK DERECHO SOBRE EL PROYECTO->GIT->REMOTE->PUSH
+*/
 
 public class HotelTuDescanso {
 

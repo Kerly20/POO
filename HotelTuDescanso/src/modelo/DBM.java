@@ -9,17 +9,27 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-/**
- *
- * @author pc
- */
+
+/*
+    CHICOS CUANDO QUIERAN USAR SU BASE SOLO COMENTEN LAS PASSWORD QUE NON SON SUYAS
+*/
 public class DBM {
     Connection conection;
 	
 	//Parametros de conexion
 	final String cadenaConexion="jdbc:mysql://localhost:3306/tudescanso";
 	final String User="root";
+        //Password Guillermo
 	final String password="1234";
+        
+        //Password Kerly
+	//final String password="";
+        
+        //Password José
+	//final String password="";
+        
+        //Password Adrían
+	//final String password="";
 
 	//constructor para la clase
 	public DBM(){
